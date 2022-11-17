@@ -1,1 +1,20 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+#wall { background-color: white;
+    z-index: 0;
+    display: none;
+  }
+  body{ background-color: white;
+    display: none;
+    z-index: 5;
+  }
+  #tag-6{
+    background-color: white
+    ;
+    display: none;
+    text-align: center;
+    margin: 0%;
+  }
+  
